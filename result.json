@@ -1,0 +1,647 @@
+[
+    {
+        "city": "Moscow",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 7
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 9,
+                    "no_rain": 1
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 12,
+        "no_rain": 2,
+        "rating": 13
+    },
+    {
+        "city": "Étréchy",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 9
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 10,
+        "rating": 4
+    },
+    {
+        "city": "London",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 11,
+        "rating": 1
+    },
+    {
+        "city": "Teltow-Fläming",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 9
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 6
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 5,
+        "rating": 5
+    },
+    {
+        "city": "Baoding District",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 11,
+                    "no_rain": 6
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 13,
+        "no_rain": 9,
+        "rating": 8
+    },
+    {
+        "city": "City of Kazan",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 6
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 3
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 9,
+                    "no_rain": 1
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 12,
+        "no_rain": 2,
+        "rating": 14
+    },
+    {
+        "city": "Saint Petersburg",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 3
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 9,
+                    "no_rain": 1
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 12,
+        "no_rain": 1,
+        "rating": 15
+    },
+    {
+        "city": "Volgograd",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 9,
+                    "no_rain": 1
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 12,
+        "no_rain": 8,
+        "rating": 10
+    },
+    {
+        "city": "Novosibirsk",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 11,
+                    "no_rain": 5
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 13,
+        "no_rain": 9,
+        "rating": 9
+    },
+    {
+        "city": "Kaliningrad",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 9
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 2
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 1
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 4,
+        "rating": 6
+    },
+    {
+        "city": "Abu Dhabi",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 9,
+                    "no_rain": 2
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 12,
+        "no_rain": 8,
+        "rating": 11
+    },
+    {
+        "city": "Powiat Warszawa",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 3
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 4,
+        "rating": 7
+    },
+    {
+        "city": "Bucharest",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": 9,
+                    "no_rain": 1
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 12,
+        "no_rain": 8,
+        "rating": 12
+    },
+    {
+        "city": "Rome",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 11,
+        "rating": 2
+    },
+    {
+        "city": "Cairo",
+        "days": [
+            {
+                "date": "2022-05-26",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-27",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-28",
+                "weather": {
+                    "average_temp": 14,
+                    "no_rain": 11
+                }
+            },
+            {
+                "date": "2022-05-29",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            },
+            {
+                "date": "2022-05-30",
+                "weather": {
+                    "average_temp": null,
+                    "no_rain": 0
+                }
+            }
+        ],
+        "average_temp": 14,
+        "no_rain": 11,
+        "rating": 3
+    }
+]
